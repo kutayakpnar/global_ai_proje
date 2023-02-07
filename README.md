@@ -5,4 +5,4 @@
 # global_ai_proje
 
 
-#This project was prepared individually during AI Global Summer Camp '22 according to certain trainers, 
+#This project was prepared individually during AI Global Summer Camp '22.
